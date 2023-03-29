@@ -1,0 +1,10 @@
+Final profit for PEARLS = -72.0
+Final profit for BANANAS = 945.0
+Final profit for COCONUTS = -1817.0
+Final profit for PINA_COLADAS = 39342.0
+Final profit for DIVING_GEAR = 20685.0
+Final profit for BERRIES = 23723.0
+Final profit for BAGUETTE = 62969.0
+Final profit for DIP = -9151.5
+Final profit for UKULELE = -61873917.5
+Final profit for PICNIC_BASKET = 16431.0
